@@ -3,13 +3,13 @@
 git checkout -b exercicio_git
 
  Create the 'nome.txt' file with your full name inside
-echo "Tatiana Inacio Da Paixão" > nome.txt
+echo "Tatiana Inacio Da Paixão" > Tatiana inácio da Paixão.txt
 
  Add the file to the staging area
-git add nome.txt
+git add Tatiana inácio da Paixão.txt
 
  Commit the changes with a message
-git commit -m "Add nome.txt with my full name"
+git commit -m "Tatiana inácio da Paixão.txt with my full name"
 
 Push the 'exercicio_git' branch to GitHub
 git push origin exercicio_git
