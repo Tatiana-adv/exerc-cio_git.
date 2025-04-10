@@ -2,7 +2,7 @@
  Create and switch to the 'exercicio_git' branch
 git checkout -b exercicio_git
 
- Create the 'nome.txt' file with your full name inside
+ Create the 'exercicio_git.txt' file with your full name inside
 echo "Tatiana Inacio Da Paixão" > Tatiana inácio da Paixão.txt
 
  Add the file to the staging area
